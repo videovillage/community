@@ -14,8 +14,8 @@ For bug reports, please file them in our [community issues tracker](https://gith
 
 ## Documentation and guides
 
-You can find release notes, documentation, and other information about our apps on [our website](https://videovillage.co/).
+You can find release notes, documentation, and other information about our apps on [our website](https://videovillage.com/).
 
 ## Email support
 
-If you aren't able to find an answer from us or the community on here, please email support@videovillage.co
+If you aren't able to find an answer from us or the community on here, please email support@videovillage.com
